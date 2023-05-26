@@ -1,2 +1,2 @@
-# lo-change-agent-bot
-Lonely Octopus - Change Agent Bot
+Herein lies the seed, the genesis, of the famed and beloved "Change Agent Bot".
+
